@@ -1,0 +1,25 @@
+.container-fluid{
+    display: flex;
+}
+
+.section-list{
+    flex: 3;
+}
+
+.section-form{
+    flex: 2;
+}
+
+/* section{
+    border: 1px solid black;
+    min-height: 200px;
+}  --test the poportions*/
+
+#iconImportant{
+    font-size: 20px;
+    color: blue;
+    cursor: pointer;
+}
+#iconImportant:hover{
+    background-color: rgba(36, 118, 241, 0.377);
+}
